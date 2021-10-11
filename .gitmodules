@@ -1,0 +1,6 @@
+[submodule "AFL"]
+	path = AFL
+	url = https://github.com/google/AFL.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl.git
